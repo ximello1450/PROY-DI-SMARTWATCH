@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.utn.health.MetricConversionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-02T03:21:53" hostname="pc" time="0.015">
+  <properties/>
+  <testcase name="testNullMetrics_produceCleanFallbacks" classname="com.utn.health.MetricConversionTest" time="0.007"/>
+  <testcase name="testCaloriesFormatting_roundedKcal" classname="com.utn.health.MetricConversionTest" time="0.001"/>
+  <testcase name="testSleepFormatting_minutesToHoursAndMinutes" classname="com.utn.health.MetricConversionTest" time="0.003"/>
+  <testcase name="testDistanceFormatting_metersToKm" classname="com.utn.health.MetricConversionTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

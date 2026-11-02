@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.utn.health.BmiRecommendationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-02T03:21:53" hostname="pc" time="0.011">
+  <properties/>
+  <testcase name="testUnderweightBmi_calculatesGentleRecommendation" classname="com.utn.health.BmiRecommendationTest" time="0.009"/>
+  <testcase name="testObesityBmi_calculatesLowImpactRecommendation" classname="com.utn.health.BmiRecommendationTest" time="0.0"/>
+  <testcase name="testNormalBmi_calculatesHealthyRecommendation" classname="com.utn.health.BmiRecommendationTest" time="0.001"/>
+  <testcase name="testNullOrInvalidInputs_returnsNull" classname="com.utn.health.BmiRecommendationTest" time="0.0"/>
+  <testcase name="testOverweightBmi_calculatesSafeFatBurnRecommendation" classname="com.utn.health.BmiRecommendationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

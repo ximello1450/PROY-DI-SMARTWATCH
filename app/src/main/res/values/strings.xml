@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="health_connect_rationale">Esta aplicación necesita acceso de solo lectura a tus datos de pasos, distancia, calorías, frecuencia cardíaca y sueño registrados por tu smartwatch para visualizarlos de forma privada y calcular tu progreso y rachas sin enviarlos a servidores externos.</string>
+</resources>
